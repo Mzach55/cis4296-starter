@@ -1,0 +1,3 @@
+this is a test
+im writing this in vim
+i dont like vim
